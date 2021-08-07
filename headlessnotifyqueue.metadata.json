@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"createdTime":{"$numberInt":"1"}},"name":"createdTime_1","expireAfterSeconds":{"$numberDouble":"604800.0"}}],"uuid":"f9c8f874ddfb453294ca691baa5b6037","collectionName":"headlessnotifyqueue"}
