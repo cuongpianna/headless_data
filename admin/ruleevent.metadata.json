@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"createdTime":{"$numberInt":"1"}},"name":"createdTime_1","expireAfterSeconds":{"$numberDouble":"604800.0"}}],"uuid":"8668644681534a2283a9606ef9db20cf","collectionName":"ruleevent","type":"collection"}
